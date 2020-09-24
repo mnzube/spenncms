@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spenncms/precache-manifest.ce55202de15b3ef85450473d6235f34c.js"
+  "/spenncms/precache-manifest.932bb3f1c5d88d56f8db308de038d65a.js"
 );
 
 self.addEventListener('message', (event) => {
