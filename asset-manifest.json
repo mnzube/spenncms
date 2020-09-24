@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spenncms/static/css/main.7cab816f.chunk.css",
+    "main.css": "/spenncms/static/css/main.3baea1ab.chunk.css",
     "main.js": "/spenncms/static/js/main.91b2174d.chunk.js",
     "main.js.map": "/spenncms/static/js/main.91b2174d.chunk.js.map",
     "runtime-main.js": "/spenncms/static/js/runtime-main.4384f934.js",
@@ -9,10 +9,10 @@
     "static/js/2.72b509c5.chunk.js": "/spenncms/static/js/2.72b509c5.chunk.js",
     "static/js/2.72b509c5.chunk.js.map": "/spenncms/static/js/2.72b509c5.chunk.js.map",
     "index.html": "/spenncms/index.html",
-    "precache-manifest.40dbceef67e11ff5ed4699df492f5ef9.js": "/spenncms/precache-manifest.40dbceef67e11ff5ed4699df492f5ef9.js",
+    "precache-manifest.9cdb40945ad2b9513189465b2bfd7661.js": "/spenncms/precache-manifest.9cdb40945ad2b9513189465b2bfd7661.js",
     "service-worker.js": "/spenncms/service-worker.js",
     "static/css/2.1469745c.chunk.css.map": "/spenncms/static/css/2.1469745c.chunk.css.map",
-    "static/css/main.7cab816f.chunk.css.map": "/spenncms/static/css/main.7cab816f.chunk.css.map",
+    "static/css/main.3baea1ab.chunk.css.map": "/spenncms/static/css/main.3baea1ab.chunk.css.map",
     "static/js/2.72b509c5.chunk.js.LICENSE.txt": "/spenncms/static/js/2.72b509c5.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/spenncms/static/media/outline-icons.ef60a4f6.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4384f934.js",
     "static/css/2.1469745c.chunk.css",
     "static/js/2.72b509c5.chunk.js",
-    "static/css/main.7cab816f.chunk.css",
+    "static/css/main.3baea1ab.chunk.css",
     "static/js/main.91b2174d.chunk.js"
   ]
 }
