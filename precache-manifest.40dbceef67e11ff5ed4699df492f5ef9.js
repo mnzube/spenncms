@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c9d201ae139f686084c10201e12ffab",
+    "revision": "b8cbdad19ea3a7631dbba5879726ca99",
     "url": "/spenncms/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spenncms/static/css/2.1469745c.chunk.css"
   },
   {
-    "revision": "4a6fa8226a4d3581c9ad",
-    "url": "/spenncms/static/css/main.864a91b8.chunk.css"
+    "revision": "6c81c6b8dc72d4c11b65",
+    "url": "/spenncms/static/css/main.7cab816f.chunk.css"
   },
   {
     "revision": "398d7a58d8c21c556af8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spenncms/static/js/2.72b509c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a6fa8226a4d3581c9ad",
+    "revision": "6c81c6b8dc72d4c11b65",
     "url": "/spenncms/static/js/main.91b2174d.chunk.js"
   },
   {
