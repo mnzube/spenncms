@@ -1,6 +1,6 @@
 ## Spenn CMS
 
-This project shows a sample customer management system design for spenn
+This project shows a sample customer management system design for spenn.
 Sign in to view the homepage and toggle the icons to view different pages
 
 ## Available Scripts
